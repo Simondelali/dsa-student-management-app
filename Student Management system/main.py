@@ -35,7 +35,7 @@ def admin_login(admin_name,admin_id):
     admin = Admin(admin_name,admin_id)
 
     # check if the admin details exist in the admin data base
-    if (admin_name in admin.admin_name) and (admin_id in admin.admin_ids):
+    if (admin_name in admin.admin_name) or (admin_id in admin.admin_ids):
         os.system("cls")
         # Now that the login is successful go ahead and display the functionalities an admin can perform
         print("[1] Add new student")
