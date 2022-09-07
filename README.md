@@ -8,4 +8,4 @@ This repo contains a python based Student Management application for my Data Str
 [4] Array
 
 ## Database
-Comma Separated Values (CSV) was used
+Comma Separated Values (CSV) was used to store students details
