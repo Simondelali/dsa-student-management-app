@@ -1,5 +1,5 @@
 # DSA-student-management-app
-This repo contains a python based Student Management application for my Data Structures & algorithm class project. If you would like to colaborate, Send a pull request and let's create magic
+This repo contains a python based Student Management application for my Data Structures & algorithm class project. All future commits will be a GUI bades application. If you would like to colaborate, Send a pull request and let's create magic
 
 ## Data Structures Used
 [1] File 
