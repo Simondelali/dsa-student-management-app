@@ -4,7 +4,7 @@ This repo contains a python based Student Management application for my Data Str
 ## Data Structures Used
 [1] File 
 [2] Class
-[3] Dictionary
+[3] Dictionary             
 [4] Array
 
 ## Database
