@@ -5,7 +5,7 @@ This repo contains a python based Student Management application for my Data Str
 [1] File 
 [2] Class
 [3] Dictionary             
-[4] Array
+[4] Array   
 
 ## Database
 Comma Separated Values (CSV) was used to store students details
