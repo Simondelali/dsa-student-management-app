@@ -1,5 +1,5 @@
 # This is a student management application
-# Parameters
+# Parameters:
 # Student login
 # gets verified,Check courses,check lecturers
 # Admin login
